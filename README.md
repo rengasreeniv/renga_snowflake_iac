@@ -1,1 +1,1 @@
-# renga_snowflake_iac
+# Snowflake IAC
